@@ -7,6 +7,9 @@
 #### ∙ 📃 GET_NEXT_LINE
 #### ∙ 🖨 FT_PRINTF
 
+## Shell and Virtual Machine:
+#### ∙ 🤖 BORN2BEROOT
+
 ## Projects that I am currently working on:
 #### ∙ 🗺 FDF
 #### ∙ 🔢 PUSH_SWAP
