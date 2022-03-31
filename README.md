@@ -7,11 +7,11 @@
 ####  📚 <a href="https://github.com/gianlucapirro/libft">LIBFT</a>
 ####  📃 <a href="https://github.com/gianlucapirro/get_next_line">GET_NEXT_LINE</a>
 ####  🖨 <a href="https://github.com/gianlucapirro/ft_printf">FT_PRINTF</a>
-####  🗺 <a href="https://github.com/gianlucapirro/fdf">FDF</a>
 ####  🔢 <a href="https://github.com/gianlucapirro/push_swap">PUSH_SWAP</a>
+####  │ <a href="https://github.com/gianlucapirro/pipex">PIPEX</a>
 
 ## Shell and Virtual Machine:
 ####  🤖 <a href="https://github.com/gianlucapirro/born2beroot">BORN2BEROOT</a>
 
 ## Projects that I am currently working on:
-####  │ <a href="https://github.com/gianlucapirro/pipex">PIPEX</a>
+####  🗺 <a href="https://github.com/gianlucapirro/fdf">FDF</a>
