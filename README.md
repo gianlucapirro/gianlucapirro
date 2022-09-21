@@ -11,10 +11,11 @@
 ####  │ <a href="https://github.com/gianlucapirro/pipex">PIPEX</a>
 ####  🗺 <a href="https://github.com/gianlucapirro/fdf">FDF</a>
 ####  👨🏼‍🦳 <a href="https://github.com/gianlucapirro/philosophers">PHILOSOPHERS</a>
+#### <a href="https://github.com/gianlucapirro/minishell">MINISHELL</a> 
 
 
 ## Shell and Virtual Machine:
 ####  🤖 <a href="https://github.com/gianlucapirro/born2beroot">BORN2BEROOT</a>
 
 ## Projects that I am currently working on:
-#### <a>MINISHELL</a>
+
