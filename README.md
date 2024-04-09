@@ -13,5 +13,5 @@
 ####  🗺 <a href="https://github.com/gianlucapirro/fdf">FDF</a>
 ####  👨🏼‍🦳 <a href="https://github.com/gianlucapirro/philosophers">PHILOSOPHERS</a>
 #### <a href="https://github.com/gianlucapirro/minishell">MINISHELL</a>
-#### <a href=https://github.com/gianlucapirro/Transcendence">Transcendence</a>
-#### <a href=https://github.com/gianlucapirro/IRC">IRC</a>
+#### <a href="https://github.com/gianlucapirro/Transcendence">Transcendence</a>
+#### <a href="https://github.com/gianlucapirro/IRC">IRC</a>
